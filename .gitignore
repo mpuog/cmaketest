@@ -7,3 +7,6 @@ prefix/
 **/.DS_Store
 CMakeLists.txt.user
 CMakeUserPresets.json
+@*/
+replit.nix
+.replit
